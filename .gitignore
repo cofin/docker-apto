@@ -2,8 +2,7 @@
 *.class
 
 .env
-app/vendor/*
-db/vendor/*
+vendor/*
 
 
 # Log file
