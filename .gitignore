@@ -3,6 +3,7 @@
 
 .env
 vendor/*
+.DS_Store
 
 
 # Log file
